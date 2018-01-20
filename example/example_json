@@ -1,0 +1,12 @@
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 1.5}
+{"key": "value10", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value3", "anotherkey": 5, "latency": 5.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value", "anotherkey": 5, "latency": 0.5}
+{"key": "value5", "anotherkey": 5, "latency": 9.5124549}
+{"anotherkey": 5, "latency": 9.5}
